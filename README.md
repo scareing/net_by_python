@@ -23,3 +23,10 @@ sshRcmd.py：
 web_sec.py：
 
 >简易多线程目录爆破
+
+sniff.py:
+>简易邮箱认证嗅探
+
+web_third.py：
+
+>多线程密码爆破
